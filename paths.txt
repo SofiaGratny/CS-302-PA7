@@ -1,0 +1,25 @@
+Reno --> Seattle --> Salt Lake City --> Las Vegas --> San Francisco --> Reno: Total Distance: 2757 -- Total Cost: 68
+
+Reno --> Seattle --> San Francisco --> Las Vegas --> Salt Lake City --> Reno: Total Distance: 3046 -- Total Cost: 76
+
+Reno --> Las Vegas --> Salt Lake City --> Seattle --> San Francisco --> Reno: Total Distance: 2809 -- Total Cost: 70
+
+Reno --> Las Vegas --> San Francisco --> Seattle --> Salt Lake City --> Reno: Total Distance: 3204 -- Total Cost: 80
+
+Reno --> Salt Lake City --> Seattle --> Las Vegas --> San Francisco --> Reno: Total Distance: 3279 -- Total Cost: 81
+
+Reno --> Salt Lake City --> Seattle --> San Francisco --> Las Vegas --> Reno: Total Distance: 3204 -- Total Cost: 80
+
+Reno --> Salt Lake City --> Las Vegas --> Seattle --> San Francisco --> Reno: Total Distance: 3173 -- Total Cost: 79
+
+Reno --> Salt Lake City --> Las Vegas --> San Francisco --> Seattle --> Reno: Total Distance: 3046 -- Total Cost: 76
+
+Reno --> San Francisco --> Seattle --> Las Vegas --> Salt Lake City --> Reno: Total Distance: 3173 -- Total Cost: 79
+
+Reno --> San Francisco --> Seattle --> Salt Lake City --> Las Vegas --> Reno: Total Distance: 2809 -- Total Cost: 70
+
+Reno --> San Francisco --> Las Vegas --> Seattle --> Salt Lake City --> Reno: Total Distance: 3279 -- Total Cost: 81
+
+Reno --> San Francisco --> Las Vegas --> Salt Lake City --> Seattle --> Reno: Total Distance: 2757 -- Total Cost: 68
+
+Most cost efficient route: 68

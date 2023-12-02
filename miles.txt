@@ -1,0 +1,29 @@
+Reno --> Reno:0
+Reno --> Seattle:700
+Reno --> Las Vegas:439
+Reno --> Salt Lake City:518
+Reno --> San Francisco:249
+
+Seattle --> Seattle:0
+Seattle --> Reno:700
+Seattle --> Las Vegas:1125
+Seattle --> Salt Lake City:840
+Seattle --> San Francisco:860
+
+Las Vegas --> Las Vegas:0
+Las Vegas --> Reno:439
+Las Vegas --> Seattle:1125
+Las Vegas --> Salt Lake City:421
+Las Vegas --> San Francisco:547
+
+Salt Lake City --> Salt Lake City:0
+Salt Lake City --> Reno:518
+Salt Lake City --> Seattle:840
+Salt Lake City --> Las Vegas:421
+Salt Lake City --> San Francisco:0
+
+San Francisco --> San Francisco:0
+San Francisco --> Reno:249
+San Francisco --> Seattle:860
+San Francisco --> Las Vegas:547
+San Francisco --> Salt Lake City:0
